@@ -44,7 +44,7 @@ function Bag1(props) {
     <div>
       <form>
         <label>
-          Сум
+          Баг
           <select>
             <option></option>
             <option value="lime">{Arhangai.sum1.bag1}</option>
@@ -82,7 +82,7 @@ function Bag3(props) {
     <div>
       <form>
         <label>
-          Сум
+          Баг
           <select>
             <option></option>
             <option value="lime">{Hentii.sum1.bag1}</option>
@@ -120,7 +120,7 @@ function Bag4(props) {
     <div>
       <form>
         <label>
-          Сум
+          Баг
           <select>
             <option></option>
             <option value="lime">{Hentii.sum2.bag1}</option>
@@ -158,7 +158,7 @@ function Bag2(props) {
     <div>
       <form>
         <label>
-          Сум
+          Баг
           <select>
             <option></option>
             <option value="lime">{Arhangai.sum2.bag1}</option>
